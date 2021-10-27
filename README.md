@@ -1,5 +1,6 @@
 # IntroductionToRobotics
 
+## HOMEWORK #1 
 ### As was described in the laboratory, the homework consists of the following:
 
   • Components: RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
