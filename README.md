@@ -67,13 +67,13 @@ for people and a beeping sound from the buzzer, at a constant interval, faster t
 </details>
 
 <br>
-### In "Homework #3" I created an EMF Detector
+ In "Homework #3" I created an EMF Detector
 <details>
   
 <summary>HOMEWORK #3</summary>
 <br>
 
- As was described in the laboratory, the homework consists of the following:
+### As was described in the laboratory, the homework consists of the following:
 
 Components: a buzzer and a 7-segment display
 <br>
