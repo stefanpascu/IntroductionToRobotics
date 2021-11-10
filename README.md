@@ -1,5 +1,5 @@
 # IntroductionToRobotics
-
+ In "Homework #1" I am using three potentiometers to control the intensity of the three RGB LED colors
 <details>
   
 <summary>HOMEWORK #1</summary>
@@ -9,7 +9,7 @@
 
   • Components: RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
 
-  • Technical Task: Use a separat potentiometer in controlling each of thecolor of the RGB led (Red, Green andBlue). The control must be done with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connectedto the led.
+  • Technical Task: Use a separate potentiometer in controlling each of the colors of the RGB led (Red, Green and Blue). The control must be done with digital electronics.
  
  Link to Youtube video --> https://youtu.be/2Q2uAz9449w
 
@@ -18,8 +18,8 @@
   
 </details>
   
-  
-
+<br>
+ In "Homework #2" I created a traffic lights system
 <details>
   
 <summary>HOMEWORK #2</summary>
@@ -66,13 +66,14 @@ for people and a beeping sound from the buzzer, at a constant interval, faster t
 
 </details>
 
-
+<br>
+### In "Homework #3" I created an EMF Detector
 <details>
   
 <summary>HOMEWORK #3</summary>
 <br>
 
-### As was described in the laboratory, the homework consists of the following:
+ As was described in the laboratory, the homework consists of the following:
 
 Components: a buzzer and a 7-segment display
 <br>
