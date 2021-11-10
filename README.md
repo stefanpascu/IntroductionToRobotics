@@ -65,3 +65,24 @@ for people and a beeping sound from the buzzer, at a constant interval, faster t
 <img src="https://user-images.githubusercontent.com/41235115/140101081-f81d9dcd-6221-49f8-9abc-f00f20a25fa4.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/140101081-f81d9dcd-6221-49f8-9abc-f00f20a25fa4.jpeg" width="200" height="400" />
 
 </details>
+
+
+<details>
+  
+<summary>HOMEWORK #3</summary>
+<br>
+
+### As was described in the laboratory, the homework consists of the following:
+
+Components: a buzzer and a 7-segment display
+<br>
+Task: should detect EMF (check body and near outlets). It prints the value on the 7-segment display and makes a sound based on the intensity.
+
+ Link to Youtube video --> https://youtu.be/NC3r56AXqPA
+  
+<br>
+<img src="https://user-images.githubusercontent.com/41235115/141155511-a3b6c669-4029-4911-bce4-2912ad14e454.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/141155511-a3b6c669-4029-4911-bce4-2912ad14e454.jpeg" width="200" height="400" />
+<br>
+<img src="https://user-images.githubusercontent.com/41235115/141155627-d229486f-e389-4fe4-b7d9-2ab58b9c83ef.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/141155627-d229486f-e389-4fe4-b7d9-2ab58b9c83ef.jpeg" width="200" height="400" />
+
+</details>
