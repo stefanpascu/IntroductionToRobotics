@@ -87,3 +87,34 @@ Task: should detect EMF (check body and near outlets). It prints the value on th
 <img src="https://user-images.githubusercontent.com/41235115/141155627-d229486f-e389-4fe4-b7d9-2ab58b9c83ef.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/141155627-d229486f-e389-4fe4-b7d9-2ab58b9c83ef.jpeg" width="200" height="400" />
 
 </details>
+
+<br>
+
+In "Homework #4" I am using a 4 Digit 7 Segment LED to display a number, it is adjusted using a Joystick
+<details>
+  
+<summary>HOMEWORK #4</summary>
+<br>
+  
+### As was described in the laboratory, the homework consists of the following:
+
+  • Components: a joystick, a 4 digit 7-segment display, a 74hc595 shiftregister
+
+  • Technical Task: 
+ First State: you can use a joystick axis to cycle through the 4 digits; using the other axis does nothing. A blinking decimal point shows the current digit position. When pressing the button, you lock in on the selected digit and enter the second state.
+<br>
+ Second State: In this state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the other axis, you can increment or decrement the number on the current digit. Pressing the button again returns you to the previous state. 
+ Bonus: Save the last value in eeprom and load it when starting arduino. Also, keep in mind that when changing the number, you must increment it for each joystick movement - it should not work continuosly increment if you keep the joystick in one position.
+ 
+ Link to Youtube video --> https://youtu.be/dPsJHL-VblA 
+
+<br>
+<img src="https://user-images.githubusercontent.com/41235115/142236220-deec7d86-c24f-4fde-a169-840a81a451e4.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/142236220-deec7d86-c24f-4fde-a169-840a81a451e4.jpeg" width="400" height="200" />
+ <br>
+<img src="https://user-images.githubusercontent.com/41235115/142236561-7336ebf9-e188-4e40-858d-76cc8bbafbbb.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/142236561-7336ebf9-e188-4e40-858d-76cc8bbafbbb.jpeg" width="400" height="200" />
+ <br>
+<img src="https://user-images.githubusercontent.com/41235115/142236690-2eef642c-3e68-4814-91d3-59e99dc2c953.jpeg" data-canonical-src="https://user-images.githubusercontent.com/41235115/142236690-2eef642c-3e68-4814-91d3-59e99dc2c953.jpeg" width="400" height="200" />
+</details>
+
+
+
