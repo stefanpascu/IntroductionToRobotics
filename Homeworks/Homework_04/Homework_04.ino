@@ -219,8 +219,9 @@ void writeNumber(int zeros, int number) {
   if (zeros == 0) {
     while (currentNumber > 0) {
       lastDigit = currentNumber % 10;
-      showDigit(displayDigit);
+      
       writeReg(digitArray[lastDigit]);
+      showDigit(displayDigit);
       displayDigit++;
       currentNumber /= 10;
       delay(generalDelayValue);
@@ -228,8 +229,9 @@ void writeNumber(int zeros, int number) {
   } else if (zeros > 0 && zeros <= segmentsCount) {
       while (currentNumber > 0) {
         lastDigit = currentNumber % 10;
-        showDigit(displayDigit);
+        
         writeReg(digitArray[lastDigit]);
+        showDigit(displayDigit);
         displayDigit++;
         currentNumber /= 10;
         delay(generalDelayValue);
